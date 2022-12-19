@@ -1,0 +1,9 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+#welcome {
+  height: 400px;
+  background-image: url("assets/pexels-photo-13766874.jpeg");
+  background-size: cover;
+}
